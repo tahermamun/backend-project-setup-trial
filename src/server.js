@@ -2,12 +2,7 @@ const connectDB = require('./database/connectDB')
 const app = require('./app')
 const { port } = require('./config')
 
-
-
-
-
-
-                        const connect2 = 'fdfdf'
+const connect5 = 'Hello world'
 
 // database connection
 connectDB()
