@@ -9,18 +9,7 @@ const { port } = require('./config')
 
 
 
-
-
-
-
-
-
-
-
-
-
-                                   const connect="fdfdfffdff"
-
+    const connect = 'fdfdf'
 
 // database connection
 connectDB()
