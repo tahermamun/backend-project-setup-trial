@@ -20,8 +20,9 @@
   },
   "devDependencies": {
     "eslint": "^8.47.0",
-    "prettier": "^3.0.1",
     "eslint-config-prettier": "^9.0.0",
+    "husky": "^8.0.3",
+    "prettier": "^3.0.1",
     "supervisor": "^0.12.0"
   }
 }
