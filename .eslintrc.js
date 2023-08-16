@@ -21,6 +21,6 @@ module.exports = {
   },
   plugins: [],
   rules: {
-    "no-unused-vars": "off"
+    'no-unused-vars': 'off',
   },
 }
